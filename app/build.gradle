@@ -57,4 +57,5 @@ dependencies {
     implementation 'com.android.support:appcompat-v7:27.1.1'
     implementation 'com.empatica.empalink:empalink:2.2@aar'
     implementation 'com.squareup.okhttp:okhttp:2.5.0'
+    implementation 'org.apache.commons:commons-math3:3.6.1'
 }

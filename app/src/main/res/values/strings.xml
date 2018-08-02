@@ -10,4 +10,5 @@
     <string name="emptyText">-</string>
     <string name="temp_label">Temperature</string>
     <string name="battery_label">Battery</string>
+    <string name="filename_label">Filename</string>
 </resources>

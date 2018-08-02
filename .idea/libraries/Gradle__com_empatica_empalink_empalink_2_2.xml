@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.empatica.empalink:empalink-2.2">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/empalink-2.2.aar/0feaf175ae89232e1348ac7fd4f7034c/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/empalink-2.2.aar/0feaf175ae89232e1348ac7fd4f7034c/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/empalink-2.2.aar/99968ab8e565be9c8e46636ebd4e887b/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/empalink-2.2.aar/99968ab8e565be9c8e46636ebd4e887b/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
